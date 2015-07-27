@@ -31,3 +31,9 @@ The design has been released under the TAPR open hardware licence, see http://ww
 
 Radio amateurs are encouraged to modify and experiment and include the board in homebrew or
 commercial rigs needing USB audio for I/Q or digimodes.
+
+VK5HSE-PCM2904-v1.0.zip contains gerber files which can be sent to a PCB manufacturer to have boards made. The boards shown in AR magazine were made by hackvana.com and are eligible for preferential pricing due to the board dimensions being 50mmx50mm. 
+
+The gerber files are industry standard and can be used by any PCB manufacturer that accepts gerber files, with at most minor changes to the file endings for the PCB layers.
+
+The schematic simply implements the reference design in the data sheet for the PCM290x family.
